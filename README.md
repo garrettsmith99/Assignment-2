@@ -2,6 +2,5 @@
 
 Seattle Ghoul 
 
-I have an imagination in a dream im just waking up for the first time. I cant see where Im going the sun is coming in through the celing its so hot in here. At nightonce the day is done and the sun has gone down. A full moon comes out and shines moonlight on the ground. I must of doused off their for a little when all of a sudden. I had an idea to create an app for an iphone. I want my game to be able to play on any device when you are in the most comfortable sitting position. Thats why I want my app to be fun and exciting on every possible level of comfort. Lying in bed, sitting on a bean bag chair. My game is going to take place in a castle. The main character Kinderlla who uses a sword with magical powers. Her swords have the power of jungle which creates a thick atmoshphere with a lot of humidty. Causing the foe to lose energy and stamina points. The more points you lose the more your character changes to a dead version of yourself like a ghost. This game is with Deathrow label rated R. 
-
+I want my game to be a character who walks around and collects power ups to add power to her staff. So you have different powers to shoot ice or create fire blasts to destory the enimies with. I want to create an open field for my level and then a castle you have to enter through to progress further into the game. I want my character to have to jump over objects and land on switches to activate doors opening and new pathways for my game. I want to add a lot of programming to my game so my characters can move around and be unique. 
 
