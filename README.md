@@ -1,17 +1,17 @@
 # Assignment-2
 
-Seattle Ghoul 10 pages
+Seattle Ghoul 10 pages graphics images 
 
-what m game is scripting how 
-Game Mechanics - I want my character to wave her magical staff around to attack a enemy with mouse click. My character is going to move left and right and be able to double jump. When you right click the mouse you will be able to attack with a magical staff. I want my game to be basic starting out. To be able to attack characters with her weapon. 
+what my game is scripting 
 
-I want my game to be a character who walks around and collects power ups to add power to her staff. So you have different powers to shoot ice or create fire blasts to destory the enimies with. I want my character to have extra weapons such as smaller swords, bottles of magic to throw on the ground. I want there to be spell books you can find and have to type in the game to use. Such as magic spells to defeat new enimies, the power of levitation that only lasts for a little bit. I want my character to go around and collect bags of money to be able to buy stuff at an in game store that im going build. To be able to buy new weapons and extra life points and rare items. I want to create an open field for my level and then a castle you have to enter through to progress further into the game. I want my character to have to jump over objects and land on switches to activate doors opening and new pathways for my game. I want to add a lot of programming to my game so my characters can move around and be unique. My game is going to be a first person point of view and my character is going to go around the dugeons to try and unlock secret weapons and defeat enimies. I want my character to try and find mushrooms and viles of potion to use as health points. 
+Game Mechanics - I want my character to wave her magical staff around to attack a enemy with mouse click. My character is going to move left and right and be able to double jump. When you right click the mouse you will be able to attack with a magical staff. I want my game to be basic starting out. To be able to attack characters with her weapon. Such as magic spells to defeat new enimies, the power of levitation that only lasts for a little bit.
+I want to add a lot of programming to my game so my characters can move around and be unique. My game is going to be a first person point of view and my character is going to go around the dugeons to try and unlock secret weapons and defeat enimies.
 
-Game Lore - I want my game to stand out by Ryuu being able to collect power ups and other in game items to strengthen her magical abilities. 
+Game Lore - I want my game to stand out by Ryuu being able to collect power ups and other in game items to strengthen her magical abilities with computer programming. Writing scripts to allow Ryuu to collect power ups and new magical abilities.  I want my character to try and find mushrooms and viles of potion to use as health points. 
 
-Game Play - There will be three levels in my game. The first level Ryuu has to manuvuer around the castle and solve a puzzel to get to the next level. In the second level of my game there will be an army of skeltons she has to defeat in order to move forward in the game. The third level in the game she has 
+Game Play - There will be three levels in my game. The first level Ryuu has to manuvuer around the castle and solve a puzzel to get to the next level. In the second level of my game there will be an army of skeltons she has to defeat in order to move forward in the game. The third level in the game she has to defeat the boss of the game.  I want my character to go around and collect bags of money to be able to buy stuff at an in game store that im going build. To be able to buy new weapons and extra life points and rare items. I want to create an open field for my level and then a castle you have to enter through to progress further into the game. I want my character to have to jump over objects and land on switches to activate doors opening and new pathways for my game.
 
-Characters - Ryuu she is the main character of my game and she is going to be walking around with her magical staff attacking monsters 
+Characters - Ryuu she is the main character of my game and she is going to be walking around with her magical staff attacking monsters I want my game to be a character who walks around and collects power ups to add power to her staff. So you have different powers to shoot ice or create fire blasts to destory the enimies with. I want my character to have extra weapons such as smaller swords, bottles of magic to throw on the ground. I want there to be spell books you can find and have to type in the game to use. 
 
 
 
