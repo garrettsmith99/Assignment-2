@@ -11,7 +11,7 @@ Game Play - There will be three levels in my game. The first level Ryuu has to m
 
 Main Character Ryuu - Ryuu she is the main character of my game and she is going to be walking around with her magical staff attacking monsters I want my game to be a character who walks around and collects power ups to add power to her staff. So you have different powers to shoot ice or create fire blasts to destory the enimies with out of her magical staff. I want my character to have extra weapons such as smaller swords, bottles of magic to throw on the ground you can control by rolling your mouse clicker up.
 
-Other Characters - There will be a character named Bloodeith who Ryuu finds in the first level of the game Blooderith gives a magical spell to Ryuu and also gives a hint to where to go to in the game
+Other Characters - There will be a character named Bloodeith who Ryuu finds in the first level of the game Blooderith gives a magical spell to Ryuu and also gives a hint to where to go to in the game. 
 
 Chiyoko - is the final boss of the game 
 
