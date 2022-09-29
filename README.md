@@ -14,3 +14,9 @@ Game Play - There will be three levels in my game. The first level Ryuu has to m
 Main Character Ryuu - Ryuu she is the main character of my game and she is going to be walking around with her magical staff attacking monsters I want my game to be a character who walks around and collects power ups to add power to her staff. So you have different powers to shoot ice or create fire blasts to destory the enimies with out of her magical staff. I want my character to have extra weapons such as smaller swords, bottles of magic to throw on the ground you can control by rolling your mouse clicker up.
 
 Enemies - I want my enimies to be bats, skeltons, lava, traps for the fist level. For the second level to be 2 vampires and the enimies from the first level. For the third and final level I want my enemy to be a giant soul eater who has the appernce of a ghost who is harder to attack then any of the other enimies. 
+
+First Level - The first level is going to be outside traveling inside a castle. Dodging enemieas and traps. 
+
+Second Level - 
+
+Third level - 
