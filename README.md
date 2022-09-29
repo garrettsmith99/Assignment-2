@@ -15,8 +15,8 @@ Main Character Ryuu - Ryuu she is the main character of my game and she is going
 
 Enemies - I want my enimies to be bats, skeltons, lava, traps for the fist level. For the second level to be 2 vampires and the enimies from the first level. For the third and final level I want my enemy to be a giant soul eater who has the appernce of a ghost who is harder to attack then any of the other enimies. 
 
-First Level - The first level is going to be outside traveling inside a castle. Dodging enemieas and traps. 
+First Level - The first level is going to be outside traveling inside a castle. Dodging enemieas and traps. There will be monsters flying around, bats, lava pits you can fall into. Moving floors that you can fall into and die. Skeltons that will attack you with swords and can fire knives at you. 
 
-Second Level - 
+Second Level - the second level of my game she will be entering the castle only to figure out there is an army of the undead waiting for her inside the castle. She has to defeat all the enemies without dying in order to preceed to the next level. 
 
-Third level - 
+Third level - The third level is all the way at the top of the castle. In order to proceed to the third level she has to climb up stairs and go through doors ad find her way through the castle. With coding I will make the stairs collapse and doors get unlocked from hitting a switch and solving a puzzel. The puzzel will be solved by putting together a picture frame and moving pieces in an order to complete the puzzel. 
