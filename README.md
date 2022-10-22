@@ -11,9 +11,9 @@ Game Lore - I want my game to stand out by being able to collect power ups and o
 
 Game Play - The first level has to manuvuer around the city and solve a puzzel to get to the next level. In the second level of my game there will be an army of skeltons and robots she has to defeat in order to move forward in the game, but the twist is the skeltons and robots are the surrviors of the city. The third level in the game she has to defeat the boss of the game.  I want my character to go around and collect bags of money to be able to buy stuff at an in game store that im going build. To be able to buy new weapons and extra life points and rare items. I want to create an open field for my level and then a castle you have to enter through to progress further into the game. I want my character to have to jump over objects and land on switches to activate doors opening and new pathways for my game.
 
-Main Character - 
+Main Character - Roxanne 
 
-In order to win the game the player must beat the highscore she has to kill a certain amount of robots in a certain amount of time or else you fail the game. 
+In order to win the game the player must beat the highscore she has to kill a certain amount of robots in a certain amount of time or else you fail the game. There is going to be a time limit in the game. You have to defeat a certain amount of enemies in a certain amount of time or else the machines win.  
 
 
 
